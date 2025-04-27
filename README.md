@@ -1,5 +1,5 @@
 # PUCTF-25 Catch the Arcadeholic (Mics)
-Difficulty: ★★★☆☆☆☆☆☆☆        Solved by: Yeung Wang Sang
+Difficulty: ★★★☆☆☆☆☆☆☆        Author: Yeung Wang Sang        Team: T001_ctf-beginner
 
 # PUCTF25 Catch the Arcadeholic writeup
 
@@ -19,7 +19,7 @@ PS: The first letter of the street name should be capitalized, e.g. foo bar stre
 
 ## Finding
 
-Jeffrey is one of the member in Nuttyshell, but he is addicted to ***video arcade games*** now and don't want to play CTF for a lifetime.
+Jeffrey is one of the members in Nuttyshell, but he is addicted to ***video arcade games*** now and doesn't want to play CTF for a lifetime.
 
 ## Image
 
