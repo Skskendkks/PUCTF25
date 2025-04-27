@@ -7,7 +7,7 @@ Here is the link for your reference.
 
 https://ctf.polyuctf.com/challenges#Catch%20that%20Arcadeholic-109
 
-## The question
+## Question
 
 Jeffrey is one of the member in Nuttyshell, but he is addicted to video arcade games now and don't want to play CTF for a lifetime.
 
@@ -90,3 +90,4 @@ The geolocation can be found in the Google Maps URL.
 ![/img/image%204.png](/image/image%204.png)
 
 PUCTF25{<street_name_with_underscore>_<xxx.xxx_xxx.xxx(geolocation_of_the_location_in_the_image)>}
+PUCTF25{Rua_Alegre_Street_22.210_113.552}
