@@ -23,7 +23,7 @@ Jeffrey is one of the member in Nuttyshell, but he is addicted to ***video arcad
 
 ## Image
 
-![/img/chall_(1).jpg](/img/chall_(1).jpg)
+![/image/chall_(1).jpg](/image/chall_(1).jpg)
 
 # View the image and find the clue
 
@@ -57,7 +57,7 @@ Go to Google Maps to search the “街機”;
 
 [](https://www.notion.so)
 
-![/img/image.png](/img/image.png)
+![/img/image.png](/image/image.png)
 
 Did not have too many results. 
 
@@ -71,24 +71,22 @@ Can find the same photo
 
 [](https://www.notion.so)
 
-![/img/image%201.png](/img/image%201.png)
+![/img/image%201.png](/image/image%201.png)
 
 ## Final result
 
 Here is the Google map final result 
 
-![/img/image%202.png](/img/image%202.png)
+![/img/image%202.png](/image/image%202.png)
 
 The English version of Google Maps can show the street name. 
 
-![/img/image%203.png](/img/image%203.png)
+![/img/image%203.png](/image/image%203.png)
 
 The full form is Rua Alegre Stree 
 
 The geolocation can be found in the Google Maps URL. 
 
-![/img/image%204.png](/img/image%204.png)
+![/img/image%204.png](/image/image%204.png)
 
 PUCTF25{<street_name_with_underscore>_<xxx.xxx_xxx.xxx(geolocation_of_the_location_in_the_image)>}
-
-PUCTF{Rua_Alegre_Stree_22.210_113.552}
