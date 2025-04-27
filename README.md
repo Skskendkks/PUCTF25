@@ -1,4 +1,4 @@
-# PUCTF-25 Catch the Arcadeholic (Mics)
+# PUCTF-25 Catch the Arcadeholic (Misc)
 Difficulty: ★★★☆☆☆☆☆☆☆        Author: Yeung Wang Sang        Team: T001_ctf-beginner
 
 # PUCTF25 Catch the Arcadeholic writeup
@@ -33,7 +33,7 @@ I can see the McDonald's logo, and I see the license plate.
 
 ## license plate
 
-The license plate is “MW 79-83,” black background with white text.  
+The license plate is “MW 79-83”, black background with white text.  
 
 2 English words and 4 numbers are the same as a Hong Kong license plate. That means car number of this area is similar to that of Hong Kong. 
 
@@ -53,9 +53,7 @@ Go to Google Macau license plate is the same as this picture.
 
 # Finding the location
 
-Go to Google Maps to search the “街機”; 
-
-[](https://www.notion.so)
+Go to Google Maps to search the “街機” 
 
 ![/img/image.png](/image/image.png)
 
@@ -69,8 +67,6 @@ Just zoom in and use the Google Maps street view service. You can see the photo.
 
 Can find the same photo 
 
-[](https://www.notion.so)
-
 ![/img/image%201.png](/image/image%201.png)
 
 ## Final result
@@ -83,7 +79,7 @@ The English version of Google Maps can show the street name.
 
 ![/img/image%203.png](/image/image%203.png)
 
-The full form is Rua Alegre Stree 
+The full form is Rua Alegre Street 
 
 The geolocation can be found in the Google Maps URL. 
 
